@@ -15,10 +15,10 @@ https://preactjs.com/
 ### [stencil](./stencil.md)
 https://stenciljs.com/
 
-### [fastify]
+### [fastify](./fastify.md)
 https://www.fastify.io/
 
-### [Prisma]
+### [Prisma](./prisma.md)
 https://www.prisma.io/
 
 ## Cross Platform
