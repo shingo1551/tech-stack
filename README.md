@@ -61,3 +61,8 @@ https://www.arangodb.com/
 
 ### [Render](./render.md)
 https://render.com/
+
+## Library
+
+### [PDF-LIB](./pdf-lib.md)
+https://pdf-lib.js.org/
