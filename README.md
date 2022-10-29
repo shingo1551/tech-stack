@@ -48,6 +48,9 @@ https://vitejs.dev/
 ### [Playwright](./playwright.md)
 https://playwright.dev/
 
+### [Storybook](./storybook.md)
+https://storybook.js.org
+
 ## XaaS
 
 ### [Deno Deploy](./deploy.md)
